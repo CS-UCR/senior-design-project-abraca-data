@@ -31,6 +31,8 @@ Demo: <Link to youtube video>
 <Screenshot of application>
 
 ## How To Run
+ You can use the attached PowerBI file and use the PowerBI application to view the dashboard. Data analysis and ML analysis are located in the .ipynb notebook files which you can look at our analysis or run the code yourself. 
+<!---
 In the project directory, you can run:
 
 ### `npm start`
@@ -65,7 +67,7 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
+-->
 ## Diagrams
 
 Due to the unique nature of our project, we do not have diagrams. Instead we outline our project with features and descriptions on how we plan to use the ML model; list of tools, methods, and algorithms we will use; and mockups of our end-product. 
@@ -107,5 +109,8 @@ ML mockup with Linear Regression
 
 
 ## Dependencies
-Install Node Package Manager (npm). [Helpful Documentation](https://www.npmjs.com/get-npm)
-
+- Install googlemaps. [Helpful Documentation](https://pypi.org/project/googlemaps/)
+- Install scikit-learn. [Helpful Documentation](https://scikit-learn.org/stable/)
+- Install numpy. [Helpful Documentation](https://numpy.org/)
+- Install pandas. [Helpful Documentation](https://pandas.pydata.org/)
+- Install plotly. [Helpful Documentation](https://plotly.com/python/)
