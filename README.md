@@ -4,7 +4,7 @@
 
 ## Table of Contents
 - [Overview](#overview)
-- [Team](#team)
+- [Team](#team-members)
 - [Usage](#usage)
 - [How To Run](#how-to-run)
 - [Diagrams](#diagrams)
@@ -13,11 +13,11 @@
 ## Overview
 Riverside County has a low retention rate in their Department of Public Social Services whether an employee is leaving for another job or transferring between different divisions within the same department. This causes employee instability in the workplace and diminishes the available resources and time since the positions take time to fill and new employees require training. The goal of this project is to find what causes the low retention rate by looking at provided data and looking and demographics such as salary, age, education, etc. We will also be using ML model to analyze the features and find any correlations between the features.
 
-## Team
+## Team Members
 
 <a href="https://github.com/Smitmodi71" target="_blank">Smit Modi </a>
 
-<a href="https://github.com/tzaw0" target="_blank">Thet Zhaw </a>
+<a href="https://github.com/tzaw0" target="_blank">Thet Zaw </a>
 
 <a href="https://github.com/jortega2" target="_blank">Juvenal Ortega </a>
 
@@ -31,7 +31,10 @@ Demo: <Link to youtube video>
 <Screenshot of application>
 
 ## How To Run
- You can use the attached PowerBI file and use the PowerBI application to view the dashboard. Data analysis and ML analysis are located in the .ipynb notebook files which you can look at our analysis or run the code yourself. 
+ You can use the attached PowerBI file and use the PowerBI application to view the dashboard. Data analysis and ML analysis are located in the .ipynb notebook files which you can look at our analysis or run the code yourself.
+ 
+ In order to run the Notebooks, install [Jupyter Notebook](https://jupyter.org/install) and upload the notebooks.
+ For any dependencies used in the notebook, view [Dependencies](#dependencies).
 <!---
 In the project directory, you can run:
 
@@ -109,8 +112,11 @@ ML mockup with Linear Regression
 
 
 ## Dependencies
+- Install pip [Helpful Documentation](https://pip.pypa.io/en/stable/installation/)
+- Libraries to install using pip
+  - pandas [Documentation](https://pandas.pydata.org/docs/)
+  - numpy [Documentation](https://numpy.org/doc/)
+  - plotly [Documentation](https://plotly.com/python/)
+  - scikit-learn [Documentation](https://scikit-learn.org/stable/)
+  - xgboost [Documentation](https://xgboost.readthedocs.io/en/stable/)
 - Install googlemaps. [Helpful Documentation](https://pypi.org/project/googlemaps/)
-- Install scikit-learn. [Helpful Documentation](https://scikit-learn.org/stable/)
-- Install numpy. [Helpful Documentation](https://numpy.org/)
-- Install pandas. [Helpful Documentation](https://pandas.pydata.org/)
-- Install plotly. [Helpful Documentation](https://plotly.com/python/)
