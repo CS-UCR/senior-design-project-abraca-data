@@ -109,7 +109,20 @@ PowerBI dashboard
 ML mockup with Linear Regression
   
 **![](https://lh4.googleusercontent.com/FkyfsIdNo1Fv37i3KNtnD5AbHieQ69Q_0RNPH8fVFwixZS92JeE1uoAnQDk3P6OIU5A6uTWOvbL0IwqKX-2bm4wpkAQdPuvW3qdgEXtZC6GFXcSs3rXfXuruxm6M53DSfRtAOKAG)**
+ 
+Attrition Distribution ( Ex-employees vs Current employees )
+![](https://github.com/CS-UCR/senior-design-project-abraca-data/blob/main/Project%20Screenshots/Attrition%20Distribution.PNG?raw=true)
 
+Leavers by division
+![](https://github.com/CS-UCR/senior-design-project-abraca-data/blob/main/Project%20Screenshots/Leavers%20by%20Job%20role.PNG?raw=true)
+ 
+Leavers by Jobrole
+![](https://github.com/CS-UCR/senior-design-project-abraca-data/blob/main/Project%20Screenshots/Leavers%20by%20division.PNG?raw=true)
+ 
+Linear Regression ( Comprate vs Department Leavers )
+![](https://github.com/CS-UCR/senior-design-project-abraca-data/blob/main/Project%20Screenshots/Linear%20Regression.PNG?raw=true)
+
+ 
 
 ## Dependencies
 - Install pip [Helpful Documentation](https://pip.pypa.io/en/stable/installation/)
