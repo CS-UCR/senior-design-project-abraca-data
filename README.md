@@ -26,7 +26,7 @@ Riverside County has a low retention rate in their Department of Public Social S
 
 
 ## Usage
-Demo: <Link to youtube video>
+Demo: Run the notebooks. kfold.ipynb and distance_calculation.ipynb are still work in progress. 
 
 <Screenshot of application>
 
