@@ -119,11 +119,6 @@ Leavers by division
 Leavers by Jobrole
 ![](https://github.com/CS-UCR/senior-design-project-abraca-data/blob/main/Project%20Screenshots/Leavers%20by%20division.PNG?raw=true)
  
-Linear Regression ( Comprate vs Department Leavers )
-![](https://github.com/CS-UCR/senior-design-project-abraca-data/blob/main/Project%20Screenshots/Linear%20Regression.PNG?raw=true)
-
- 
-
 ## Dependencies
 - Install pip [Helpful Documentation](https://pip.pypa.io/en/stable/installation/)
 - Libraries to install using pip
