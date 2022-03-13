@@ -30,6 +30,10 @@ Demo: Run the notebooks. kfold.ipynb and distance_calculation.ipynb are still wo
 
 <Screenshot of application>
 
+## Dataset to look for when running specific ML model: 
+ - Use the dataset named source_2021-12-07-09-51-43.csv ( inside Project Screenshots ) to run the ML models that starts with
+ - (With/Without Feature Importance and Random Forest F1 score)
+ 
 ## How To Run
  You can use the attached PowerBI file and use the PowerBI application to view the dashboard. Data analysis and ML analysis are located in the .ipynb notebook files which you can look at our analysis or run the code yourself.
  
