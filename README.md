@@ -31,7 +31,7 @@ Demo: Run the notebooks. kfold.ipynb and distance_calculation.ipynb are still wo
 <Screenshot of application>
 
 ## Dataset to look for when running specific ML model: 
- - Use the dataset named source_2021-12-07-09-51-43.csv ( inside Project Screenshots ) to run the ML models that starts with
+ - Use the dataset named source_2021-12-07-09-51-43.csv ( inside Machine Learning Models ) to run the ML models that starts with
  - (With/Without Feature Importance and Random Forest F1 score)
  
 ## How To Run
