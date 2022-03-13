@@ -94,9 +94,76 @@ Due to the unique nature of our project, we do not have diagrams. Instead we out
 - PowerBI for the dashboard as this is what Riverside County currently uses to visualize the data 
 - Web scraping of websites to find salary and cost of living of similar job positions
 - ML tools such as linear regression and KNN to analyze the dataset 
+ 
+### EDA Analysis 
+## Yearly Retention Rate:
+Shows it is declining since 2010 
+![](https://github.com/CS-UCR/senior-design-project-abraca-data/blob/main/Project%20Screenshots/Yearly%20Retention%20Rate.PNG?raw=true)
+ 
+## Retention Rate By Divisions:
+Children Services has the lowest retention rate followed by Self-Sufficency 
+![](https://github.com/CS-UCR/senior-design-project-abraca-data/blob/main/Project%20Screenshots/Retention%20Rate%20by%20division.PNG?raw=true)
+ 
+## Retention Rate By Sex:
+There’s no correlation between gender and retention rate as they trend together
+![](https://github.com/CS-UCR/senior-design-project-abraca-data/blob/main/Project%20Screenshots/Retention%20Rate%20by%20sex.PNG?raw=true)
+ 
+## Retention Rate By Classification:
+Staffs have lower retention rate compared to other groups
+![](https://github.com/CS-UCR/senior-design-project-abraca-data/blob/main/Project%20Screenshots/Retention%20Rate%20by%20classification.PNG?raw=true)
+ 
+## Retention Rate By Work Distance From Home:
+There is no correlation between distance from work and home and retention rate. 
+![](https://github.com/CS-UCR/senior-design-project-abraca-data/blob/main/Project%20Screenshots/Distance.PNG?raw=true)
+ 
+## Duration (Current vs. Past):
+- Shows the duration of employment in the department
+- Majority of employees (both past and current) has been employed for more than 5 years
+- About 36% of the employees in our data were past employees who worked less than 5 years
+![](https://github.com/CS-UCR/senior-design-project-abraca-data/blob/main/Project%20Screenshots/Duration%20current%20vs%20past.PNG?raw=true)
+ 
+## Duration Between Divisions:
+- The number of past employees who worked less than 5 years in Children Services is higher than average
+![](https://github.com/CS-UCR/senior-design-project-abraca-data/blob/main/Project%20Screenshots/duration%20between%20division.PNG?raw=true)
+ 
+## Duration Between Ending Age Groups:
+- This might be misleading as we are looking at ending age group
+- Those who stay longer will moves up into higher age group so there’ll be less employees who had worked less than 5 years in those age groups
+![](https://github.com/CS-UCR/senior-design-project-abraca-data/blob/main/Project%20Screenshots/duration%20between%20ending%20age%20group.PNG?raw=true)
 
-### Mockups
-Regression Analysis
+## Duration Between Staring Age Groups:
+- There is less correlation when looking at the age group of when the employees were hired
+![](https://github.com/CS-UCR/senior-design-project-abraca-data/blob/main/Project%20Screenshots/duration%20age%20group.PNG?raw=true)
+ 
+## Duration Between Classification:
+- Staffs has more employees who worked less than 5 years compared to others
+![](https://github.com/CS-UCR/senior-design-project-abraca-data/blob/main/Project%20Screenshots/duration%20classification.PNG?raw=true)
+
+## Comprate Distribution:
+- The distribution of comprate for past employees who worked less than 5 years is more to the left
+![](https://github.com/CS-UCR/senior-design-project-abraca-data/blob/main/Project%20Screenshots/comprate%20distribution.PNG?raw=true)
+
+### Machine Learning Models:
+ 
+## XGBoost
+- F1 scores: 71.39%, 70.97%, 76.50%, 78.09%, 80.82%, 50.58%
+- Accuracy for each label:
+- Retirement: 76.96%
+- Termination: 88.82%
+- Working: 51.85%
+![](https://github.com/CS-UCR/senior-design-project-abraca-data/blob/main/Project%20Screenshots/XGBoost.PNG?raw=true)
+ 
+## Random Forest
+- Accuracy for each label:
+- Retirement: 70.96%
+- Termination: 81.19%
+- Working: 25.67%
+![](https://github.com/CS-UCR/senior-design-project-abraca-data/blob/main/Project%20Screenshots/Random%20Forest%20machine.PNG?raw=true)
+ 
+### Mockups and Early Drafts 
+ - This was done during last quarter when we were trying to understand and clean the dataset. 
+ 
+ - Regression Analysis
 **![](https://lh4.googleusercontent.com/YOxb5XewjtgCc3LCssw4ZLGLIl9zRsBBuo_VvgE7hiF6DzkNPfyMQzYgW7X5lOwbo7VoL6XLPagHNV_-YD-Kmz2queCyVJetLoPXaEiHzh8Ftvnj-L0S8flzrYkSWpDjy_49Dw6E)**
 **![](https://lh6.googleusercontent.com/vidG5gqD2yb5_8ss6WDcMRAExy1XhZ3PQwc7hsq-1bPZv7dLq36DLl_Wpd2SSWKErxssoh-uk_-ekySGIFLrC6MxAh01McdmKvTCdMu2vdOTGQgtLkDp-zj7Lw8fYB4ueOBeyttp)**
 **![](https://lh3.googleusercontent.com/W7FFSM_XUwy_cJ_LENuQVddEvn37b1UlttsXqaJZsGZ60wIA9bWTd43sjm6XEjdZjlhf04JQ05TFD89XrII2_w3iY8NJJJxvrAnOAaKE5YIP56H98sbdD7uIx2iRPPijxp6N46cs)**
@@ -106,9 +173,9 @@ PowerBI dashboard
 
 **![](https://lh4.googleusercontent.com/mEES8qNvE9ASe0_d9s3fCh4a1wXIvrPE06wtwMj62A9MV2p5Pva2F8HeyjYHqlr6Wp6sEVMaYnAfSmBZA3p1e2AgknLgCPnyZpy7VDZAqczyc1ZJyg1PJKS9z2BezrQP03aLRdGt)**
   
-ML mockup with Linear Regression
-  
-**![](https://lh4.googleusercontent.com/FkyfsIdNo1Fv37i3KNtnD5AbHieQ69Q_0RNPH8fVFwixZS92JeE1uoAnQDk3P6OIU5A6uTWOvbL0IwqKX-2bm4wpkAQdPuvW3qdgEXtZC6GFXcSs3rXfXuruxm6M53DSfRtAOKAG)**
+
+### Early Drafts EDA
+- This was done during last quarter when we were trying to understand and clean the data. 
  
 Attrition Distribution ( Ex-employees vs Current employees )
 ![](https://github.com/CS-UCR/senior-design-project-abraca-data/blob/main/Project%20Screenshots/Attrition%20Distribution.PNG?raw=true)
