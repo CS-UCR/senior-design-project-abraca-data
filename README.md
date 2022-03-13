@@ -31,9 +31,15 @@ Demo: Run the notebooks. kfold.ipynb and distance_calculation.ipynb are still wo
 <Screenshot of application>
 
 ## Dataset to look for when running specific ML model: 
- - Use the dataset named source_2021-12-07-09-51-43.csv ( inside Machine Learning Models ) to run the ML models that starts with
- - (With/Without Feature Importance and Random Forest F1 score)
- -  <a href="https://github.com/CS-UCR/senior-design-project-abraca-data/blob/f7d150782cf711d45ec7caa5726289ebd5fac3f0/Machine%20Learning%20Models/source_2021-12-07-09-51-43.csv" target="_blank">source_2021-12-07-09-51-43.csv </a>
+ - Use the dataset named <a href="https://github.com/CS-UCR/senior-design-project-abraca-data/blob/f7d150782cf711d45ec7caa5726289ebd5fac3f0/Machine%20Learning%20Models/source_2021-12-07-09-51-43.csv" target="_blank">source_2021-12-07-09-51-43.csv </a> ( inside Machine Learning Models ) to run the following ML models inside Machine Learning Folders
+ 
+ - With Feature Importance)Logistic Regression Updated .ipynb
+ - With Feature Importance)Random Forest F1 scores - Updated with graph.ipynb
+ - Without Feature Importance)Logistic + Random + Support Vector (Multiple Features).ipynb
+ - Without Feature Importance)Logistic + Random Forest + Support Vector (3 Features).ipynb
+ - Without Feature Importance)Logistic + Random Forest + Support Vector (4 Features).ipynb
+ - Random Forest F1 scores.ipynb
+
  
 ## How To Run
  You can use the attached PowerBI file and use the PowerBI application to view the dashboard. Data analysis and ML analysis are located in the .ipynb notebook files which you can look at our analysis or run the code yourself.
