@@ -160,6 +160,13 @@ Due to the unique nature of our project, we do not have diagrams. Instead we out
 - Working: 25.67%
 ![](https://github.com/CS-UCR/senior-design-project-abraca-data/blob/main/Project%20Screenshots/Random%20Forest%20machine.PNG?raw=true)
  
+## Neural Network
+- Features: Duration, Age_group, comprate, Division, Last_pay_raise 
+- Labels and prediction accuracy
+- Retirement (43.97%), Termination (77.32%), Working (55.18%)
+- F1 Scores:19.36%, 67.82%, 76.5%, 78.33%, 79.11% and 64.22% average
+
+ 
 ### -----------------------------------------------------------------------------------------------------------------------------
 ### Everything below includes the MockUps and Draft versions we worked on early in the quarter to understand and clean the dataset. 
 ### -----------------------------------------------------------------------------------------------------------------------------
