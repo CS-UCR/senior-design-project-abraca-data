@@ -97,23 +97,23 @@ Due to the unique nature of our project, we do not have diagrams. Instead we out
  
 ### EDA Analysis 
 ## Yearly Retention Rate:
-Shows it is declining since 2010 
+- Shows it is declining since 2010 
 ![](https://github.com/CS-UCR/senior-design-project-abraca-data/blob/main/Project%20Screenshots/Yearly%20Retention%20Rate.PNG?raw=true)
  
 ## Retention Rate By Divisions:
-Children Services has the lowest retention rate followed by Self-Sufficency 
+- Children Services has the lowest retention rate followed by Self-Sufficency 
 ![](https://github.com/CS-UCR/senior-design-project-abraca-data/blob/main/Project%20Screenshots/Retention%20Rate%20by%20division.PNG?raw=true)
  
 ## Retention Rate By Sex:
-There’s no correlation between gender and retention rate as they trend together
+- There’s no correlation between gender and retention rate as they trend together
 ![](https://github.com/CS-UCR/senior-design-project-abraca-data/blob/main/Project%20Screenshots/Retention%20Rate%20by%20sex.PNG?raw=true)
  
 ## Retention Rate By Classification:
-Staffs have lower retention rate compared to other groups
+- Staffs have lower retention rate compared to other groups
 ![](https://github.com/CS-UCR/senior-design-project-abraca-data/blob/main/Project%20Screenshots/Retention%20Rate%20by%20classification.PNG?raw=true)
  
 ## Retention Rate By Work Distance From Home:
-There is no correlation between distance from work and home and retention rate. 
+- There is no correlation between distance from work and home and retention rate. 
 ![](https://github.com/CS-UCR/senior-design-project-abraca-data/blob/main/Project%20Screenshots/Distance.PNG?raw=true)
  
 ## Duration (Current vs. Past):
@@ -160,10 +160,11 @@ There is no correlation between distance from work and home and retention rate.
 - Working: 25.67%
 ![](https://github.com/CS-UCR/senior-design-project-abraca-data/blob/main/Project%20Screenshots/Random%20Forest%20machine.PNG?raw=true)
  
-### Mockups and Early Drafts 
- - This was done during last quarter when we were trying to understand and clean the dataset. 
+### -----------------------------------------------------------------------------------------------------------------------------
+### Everything below includes the MockUps and Draft versions we worked on early in the quarter to understand and clean the dataset. 
+### -----------------------------------------------------------------------------------------------------------------------------
  
- - Regression Analysis
+- Regression Analysis
 **![](https://lh4.googleusercontent.com/YOxb5XewjtgCc3LCssw4ZLGLIl9zRsBBuo_VvgE7hiF6DzkNPfyMQzYgW7X5lOwbo7VoL6XLPagHNV_-YD-Kmz2queCyVJetLoPXaEiHzh8Ftvnj-L0S8flzrYkSWpDjy_49Dw6E)**
 **![](https://lh6.googleusercontent.com/vidG5gqD2yb5_8ss6WDcMRAExy1XhZ3PQwc7hsq-1bPZv7dLq36DLl_Wpd2SSWKErxssoh-uk_-ekySGIFLrC6MxAh01McdmKvTCdMu2vdOTGQgtLkDp-zj7Lw8fYB4ueOBeyttp)**
 **![](https://lh3.googleusercontent.com/W7FFSM_XUwy_cJ_LENuQVddEvn37b1UlttsXqaJZsGZ60wIA9bWTd43sjm6XEjdZjlhf04JQ05TFD89XrII2_w3iY8NJJJxvrAnOAaKE5YIP56H98sbdD7uIx2iRPPijxp6N46cs)**
@@ -171,7 +172,7 @@ There is no correlation between distance from work and home and retention rate.
   
 PowerBI dashboard 
 
-**![](https://lh4.googleusercontent.com/mEES8qNvE9ASe0_d9s3fCh4a1wXIvrPE06wtwMj62A9MV2p5Pva2F8HeyjYHqlr6Wp6sEVMaYnAfSmBZA3p1e2AgknLgCPnyZpy7VDZAqczyc1ZJyg1PJKS9z2BezrQP03aLRdGt)**
+ **![](https://lh4.googleusercontent.com/mEES8qNvE9ASe0_d9s3fCh4a1wXIvrPE06wtwMj62A9MV2p5Pva2F8HeyjYHqlr6Wp6sEVMaYnAfSmBZA3p1e2AgknLgCPnyZpy7VDZAqczyc1ZJyg1PJKS9z2BezrQP03aLRdGt)**
   
 
 ### Early Drafts EDA
