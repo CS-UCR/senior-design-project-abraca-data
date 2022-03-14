@@ -9,6 +9,7 @@
 - [How To Run](#how-to-run)
 - [Diagrams](#diagrams)
 - [Dependencies](#dependencies)
+- [Trello](#trello)
 
 ## Overview
 Riverside County has a low retention rate in their Department of Public Social Services whether an employee is leaving for another job or transferring between different divisions within the same department. This causes employee instability in the workplace and diminishes the available resources and time since the positions take time to fill and new employees require training. The goal of this project is to find what causes the low retention rate by looking at provided data and looking and demographics such as salary, age, education, etc. We will also be using ML model to analyze the features and find any correlations between the features.
@@ -214,3 +215,6 @@ Leavers by Jobrole
   - scikit-learn [Documentation](https://scikit-learn.org/stable/)
   - xgboost [Documentation](https://xgboost.readthedocs.io/en/stable/)
 - Install googlemaps. [Helpful Documentation](https://pypi.org/project/googlemaps/)
+ 
+ ## Trello
+ https://trello.com/b/TrKsqXMa/project
